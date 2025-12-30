@@ -1,6 +1,10 @@
 # Basic_Python
 Learning and Revising  basic python concepts .
+
+
 🐍 Python Basics
+
+
 📌 Introduction
 Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used in web development, data science, automation, artificial intelligence, and more.
 This README covers the basic concepts of Python for beginners.
