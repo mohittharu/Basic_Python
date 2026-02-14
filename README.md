@@ -1,8 +1,8 @@
 # Basic_Python
-Learning and Revising  basic python concepts .
+Learning and Revising  basic python concepts 
 
 
-🐍 Python Basics
+🐍 Python Basics(Fundamental of Python)
 
 
 📌 Introduction
